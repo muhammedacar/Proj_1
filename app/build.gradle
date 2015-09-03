@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "edu.up.cs371.muhammed19.muhammedsproj"
+        applicationId "edu.up.cs371.muhammed19.myapplication"
         minSdkVersion 15
         targetSdkVersion 22
         versionCode 1
